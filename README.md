@@ -9,4 +9,4 @@ The course "Programming Fundamentals" examines fundamental concepts in programmi
 - Understanding the relationship between different IT concepts
 - Working with linear data structure
 # Certificate
-# <p align="center"> ![alt text](https://github.com/momchilantonov/SoftUni-Python-Fundamentals/blob/main/Programming%20Fundamentals%20-%20September%202020%20-%20Certificate.jpeg) <p>
+# <p align="center"> ![alt text](https://github.com/momchilantonov/SoftUni-Python-Fundamentals-September-2020/blob/main/Python%20Fundamentals%20-%20September%202020%20-%20Certificate.jpeg) <p>
